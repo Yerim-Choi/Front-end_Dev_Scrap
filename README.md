@@ -26,3 +26,5 @@
 📄 벨로퍼트와 함께하는 모던 리액트 https://developer.mozilla.org/ko/
 
 📄 벨로퍼트와 함께하는 모던 자바스크립트 https://developer.mozilla.org/ko/
+
+📄 캡틴판교 타입스크립트 핸드북 https://joshua1988.github.io/ts/guide/type-inference.html#%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0-type-inference
