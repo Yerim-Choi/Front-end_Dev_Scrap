@@ -6,14 +6,23 @@
 ### 📄 Blog
 ---
 
-📄MDN https://developer.mozilla.org/ko/
+📄 MDN https://developer.mozilla.org/ko/
 
-📄캡틴판교 https://joshua1988.github.io/
+📄 캡틴판교 https://joshua1988.github.io/
 
-📄Velopert velog  https://velog.io/@velopert
+📄 Velopert velog  https://velog.io/@velopert
 
-📄NAVER D2 https://d2.naver.com/home
+📄 NAVER D2 https://d2.naver.com/home
 
-📄우아한형제 기술 블로그 https://woowabros.github.io/
+📄 우아한형제 기술 블로그 https://woowabros.github.io/
 
-📄라인 기술 블로그 https://engineering.linecorp.com/ko/blog/category/front-end-ko/
+📄 라인 기술 블로그 https://engineering.linecorp.com/ko/blog/category/front-end-ko/
+
+
+
+### 📄 Study
+---
+
+📄 벨로퍼트와 함께하는 모던 리액트 https://developer.mozilla.org/ko/
+
+📄 벨로퍼트와 함께하는 모던 자바스크립트 https://developer.mozilla.org/ko/
