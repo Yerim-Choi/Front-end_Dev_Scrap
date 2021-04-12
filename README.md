@@ -3,8 +3,7 @@
 
 
 
-> 📄 Blog
-##
+> Blog
 
 📄 [MDN](https://developer.mozilla.org/ko/)
 
@@ -21,10 +20,10 @@
 📄 [SUUON - 프론트엔드 가이드](https://suuon.com/guide)
 
 
+#
 
 
-> 📄 Study
-##
+> Study
 
 📄 [벨로퍼트와 함께하는 모던 리액트](https://developer.mozilla.org/ko/)
 
