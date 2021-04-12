@@ -3,8 +3,8 @@
 
 
 
-### 📄 Blog
----
+> 📄 Blog
+##
 
 📄 [MDN](https://developer.mozilla.org/ko/)
 
@@ -22,8 +22,9 @@
 
 
 
-### 📄 Study
----
+
+> 📄 Study
+##
 
 📄 [벨로퍼트와 함께하는 모던 리액트](https://developer.mozilla.org/ko/)
 
