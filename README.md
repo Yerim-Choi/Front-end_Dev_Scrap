@@ -13,11 +13,17 @@
 
 📄 [NAVER D2](https://d2.naver.com/home)
 
+📄 [LINE](https://engineering.linecorp.com/ko/)
+
+📄 [KaKao Tech](https://tech.kakao.com/blog/)
+
 📄 [우아한형제 기술 블로그](https://woowabros.github.io/)
 
 📄 [라인 기술 블로그](https://engineering.linecorp.com/ko/blog/category/front-end-ko/)
 
 📄 [SUUON - 프론트엔드 가이드](https://suuon.com/guide)
+
+📄 [당근마켓 팀블로그](https://medium.com/daangn)
 
 
 #
