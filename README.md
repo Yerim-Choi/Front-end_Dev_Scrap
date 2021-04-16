@@ -35,7 +35,7 @@
 > Study
 #
 
-📄 [더북 TheBook] (https://thebook.io/)
+📄 [더북 TheBook](https://thebook.io/)
 
 📄 [벨로퍼트와 함께하는 모던 리액트](https://developer.mozilla.org/ko/)
 
