@@ -30,6 +30,8 @@
 
 📄 [쿠팡 기술블로그](https://medium.com/coupang-tech/technote/home)
 
+📄 [WATCHA 블로그](https://medium.com/watcha)
+
 📄 [개발자스럽다](https://blog.gaerae.com/)
 
 #
