@@ -18,6 +18,8 @@
 
 📄 [TOAST UI](https://ui.toast.com/weekly-pick/ko)
 
+📄 [NHN Cloud Meetup](https://meetup.toast.com/)
+
 📄 [KaKao Tech](https://tech.kakao.com/blog/)
 
 📄 [우아한형제 기술 블로그](https://woowabros.github.io/)
