@@ -36,6 +36,8 @@
 
 📄 [개발자스럽다](https://blog.gaerae.com/)
 
+📄 [원티드 제품 팀블로그](https://medium.com/wantedjobs)
+
 #
 
 
